@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SauleAb
-- 👀 I’m interested in learning and trying new things
-- 🌱 I’m currently learning react and python :)
+- 👀 I’m interested in learning and trying out new things
+- 🌱 I’m currently deepening my knowledge in 
 - 💞️ I’m looking to collaborate on anything that would help me grow as a developer
 - 📫 How to reach me abramoviciutesaule@gmail.com
 
